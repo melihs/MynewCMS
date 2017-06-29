@@ -2,3 +2,8 @@
 fonts/
 less/
 .idea/
+img/
+# .js uzantıları es geç ama sb-admin.js hariç
+js/
+!sb-admin.js
+
