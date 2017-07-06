@@ -16,7 +16,7 @@
 
     <!-- Theme CSS -->
     <link href="../css/clean-blog.min.css" rel="stylesheet">
-
+    <link href="../css/style.css" rel="stylesheet">
     <!-- Custom Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
