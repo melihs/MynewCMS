@@ -65,3 +65,4 @@ include 'includes/header.php';
 //footer bölümünü de index.php ye ekledik
 include 'includes/footer.php';
 ?>
+
