@@ -4,6 +4,12 @@ body{
 	background: rgba(81, 136, 200, 0.33);
 	font:600 16px/18px 'Open Sans',sans-serif;
 }
+
+/*noinspection ALL*/
+.intro-header{
+    /*noinspection CssUnknownTarget,CssUnknownTarget,CssUnknownTarget*/
+    background:url("www/img/ana.png");
+}
 *,:after,:before{box-sizing:border-box}
 .clearfix:after,.clearfix:before{content:'';display:table}
 .clearfix:after{clear:both;display:block}

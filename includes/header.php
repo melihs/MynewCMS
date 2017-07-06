@@ -42,23 +42,23 @@
                     <span class="sr-only">Toggle navigation</span>
                     Menü <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="../index.php">Anasayfa</a>
+                <a class="navbar-brand" href="index.php">Anasayfa</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="../login.html">GİRİŞ YAP</a>
+                        <a href="login.html">GİRİŞ YAP</a>
                     </li>
                     <li>
-                        <a href="../about.html">HAKKINDA</a>
+                        <a href="about.html">HAKKINDA</a>
                     </li>
                     <li>
-                        <a href="../makale.php">MAKALELER</a>
+                        <a href="makale.php">MAKALELER</a>
                     </li>
                     <li>
-                        <a href="../contact.html">İLETİŞİM</a>
+                        <a href="contact.html">İLETİŞİM</a>
                     </li>
                 </ul>
             </div>
@@ -69,7 +69,7 @@
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header" style="background-image: url('../img/ana.png')">
+    <header class="intro-header">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
