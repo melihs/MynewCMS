@@ -1,8 +1,8 @@
+
 <?php
 include 'includes/header.php';
 ?>
-    <link rel="stylesheet" href="css/style.css">
-<div class="login-wrap">
+   <div class="login-wrap">
     <div class="login-html">
         <input id="tab-1" type="radio" name="tab" class="sign-in" checked><label for="tab-1" class="tab">GİRİŞ YAP</label>
         <input id="tab-2" type="radio" name="tab" class="sign-up"><label for="tab-2" class="tab">KAYIT OL</label>
@@ -56,6 +56,7 @@ include 'includes/header.php';
         </div>
     </div>
 </div>
+<link rel="stylesheet" href="css/style.css">
 <?php
 include 'includes/footer.php';
 ?>
