@@ -5,11 +5,6 @@ body{
 	font:600 16px/18px 'Open Sans',sans-serif;
 }
 
-/*noinspection ALL*/
-.intro-header{
-    /*noinspection CssUnknownTarget,CssUnknownTarget,CssUnknownTarget*/
-    background:url("www/img/ana.png");
-}
 *,:after,:before{box-sizing:border-box}
 .clearfix:after,.clearfix:before{content:'';display:table}
 .clearfix:after{clear:both;display:block}
@@ -57,10 +52,9 @@ a{color:inherit;text-decoration:none}
 }
 .login-html .tab{
 	font-size:22px;
-	margin-right:15px;
-	padding-bottom:5px;
-	margin:0 15px 10px 0;
-	display:inline-block;
+    padding-bottom:5px;
+    margin: 0 15px 10px 0;
+    display:inline-block;
 	border-bottom:2px solid transparent;
 }
 .login-html .sign-in:checked + .tab,

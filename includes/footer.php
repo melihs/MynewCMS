@@ -1,4 +1,3 @@
-
 <!-- Footer -->
 <footer>
     <div class="container">
@@ -30,10 +29,7 @@
                         </a>
                     </li>
                 </ul>
-                <p class="copyright text-muted">2017-Melih Şahin<a href="https://www.github.com/melihs"></a>
-
-                </p>
-
+                <p class="copyright text-muted">2017-Melih Şahin</p>
             </div>
         </div>
     </div>
@@ -41,6 +37,7 @@
 
 <!-- jQuery -->
 <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+
 <!-- Bootstrap Core JavaScript -->
 <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
@@ -50,5 +47,3 @@
 
 <!-- Theme JavaScript -->
 <script src="js/clean-blog.min.js"></script>
-</body>
-</html>

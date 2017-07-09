@@ -30,16 +30,14 @@
     <![endif]-->
 
 </head>
-
 <body>
-
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
+                    <span class="sr-only">Navigasyon Menü</span>
                     Menü <i class="fa fa-bars"></i>
                 </button>
                 <a class="navbar-brand" href="index.php">Anasayfa</a>
@@ -52,7 +50,7 @@
                         <a href="login.html">GİRİŞ YAP</a>
                     </li>
                     <li>
-                        <a href="about.html">HAKKINDA</a>
+                        <a href="hakkimda.php">HAKKIMDA</a>
                     </li>
                     <li>
                         <a href="makale.php">MAKALELER</a>
@@ -67,18 +65,4 @@
         <!-- /.container -->
     </nav>
 
-    <!-- Page Header -->
-    <!-- Set your background image for this header on the line below. -->
-    <header class="intro-header">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <div class="site-heading">
-                        <h1>CMS-M blog</h1>
-                        <hr class="small">
-                        <span class="subheading">Temel CMS Çalışması</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+
